@@ -200,25 +200,18 @@ $${\color{black}Note}$$ The server webpack config will now watch for changes and
 
 ssr-react-template-app
 
+```
 ├── public
-
 │   └── index.html       # Template HTML file
-
 ├── src
-
 │   ├── components       # React components
-
 │   ├── App.js           # Main App component
-
 │   ├── index.js         # Client-side entry point
-
 ├── server
-
 │   ├── server.js        # Express server for SSR
-
 ├── package.json         # Project metadata and scripts
-
 └── README.md            # Project documentation
+```
 
 ### Learning Points
 
