@@ -232,3 +232,29 @@ SSR, or Server-Side Rendering, is a technique used in web development where the 
 - **Improved Performance**: The initial load time is faster because the browser can display the HTML immediately without waiting for JavaScript to load and execute.
 - **SEO Benefits**: Search engines can easily crawl and index the fully rendered HTML content, which can improve the site's visibility in search engine results.
 - **Better User Experience**: Users see the content more quickly, which can reduce bounce rates and improve overall user satisfaction.
+
+## Author
+
+<table>
+  <tr>
+    <!-- <td align="center"><a href="https://github.com/Devendra0110"><img src="https://avatars.githubusercontent.com/Devendra0110?v=4&size=100" width="100px;" alt="" /><br /><sub><b>Devendra Gaud</b></sub></a><br />
+      <a title="Code">💻</a>
+      <a title="Ideas">🤔</a>
+      <a title="Review">👀</a>
+    </td> -->
+    <td align="center"><a href="https://github.com/jaiExtern"><img src="https://avatars.githubusercontent.com/jppingal?v=4&size=100" width="100px;" alt="" /><br /><sub><b>JP pingal</b></sub></a><br />
+      <a title="Code">💻</a>
+      <a title="Ideas">🎨</a>
+      <a title="mentoring ">🧑‍🏫</a>
+    </td>
+    <!-- <td align="center"><a href="https://github.com/armano2"><img src="https://avatars.githubusercontent.com/Shraddhapargat?v=4&size=100" width="100px;" alt="" /><br />
+      <sub><b>Shraddha Pargat</b></sub></a><br />
+      <a title="Code">💻</a>
+      <a title="Ideas">🎨</a>
+    </td> -->
+    <!-- <td align="center"><a href="https://github.com/Aryansharma517"><img src="https://avatars.githubusercontent.com/Aryansharma517?v=4&size=100" width="100px;" alt="" /><br /><sub><b>Aryan Sharma</b></sub></a><br />
+      <a title="Code">💻</a>
+      <a title="Ideas">🎨</a>
+    </td> -->
+  </tr>
+    </table>
