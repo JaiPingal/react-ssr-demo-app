@@ -213,8 +213,8 @@ ssr-react-template-app
 └── README.md            # Project documentation
 ```
 
+- - - -
 ### Learning Points
-
 
 ### What is SSR?
 
@@ -233,6 +233,7 @@ SSR, or Server-Side Rendering, is a technique used in web development where the 
 - **SEO Benefits**: Search engines can easily crawl and index the fully rendered HTML content, which can improve the site's visibility in search engine results.
 - **Better User Experience**: Users see the content more quickly, which can reduce bounce rates and improve overall user satisfaction.
 
+- - - -
 ## Author
 
 <table>
@@ -242,7 +243,7 @@ SSR, or Server-Side Rendering, is a technique used in web development where the 
       <a title="Ideas">🤔</a>
       <a title="Review">👀</a>
     </td> -->
-    <td align="center"><a href="https://github.com/jaiExtern"><img src="https://avatars.githubusercontent.com/jppingal?v=4&size=100" width="100px;" alt="" /><br /><sub><b>JP pingal</b></sub></a><br />
+    <td align="center"><a href="https://github.com/JaiPingal"><img src="https://avatars.githubusercontent.com/JaiPingal?v=4&size=100" width="100px;" alt="" /><br /><sub><b>JP Pingal</b></sub></a><br />
       <a title="Code">💻</a>
       <a title="Ideas">🎨</a>
       <a title="mentoring ">🧑‍🏫</a>
@@ -257,4 +258,4 @@ SSR, or Server-Side Rendering, is a technique used in web development where the 
       <a title="Ideas">🎨</a>
     </td> -->
   </tr>
-    </table>
+</table>
